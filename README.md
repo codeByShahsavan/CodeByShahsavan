@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Fatemeh shahsavan ,a Frontend Developer based in Iran .My passion lies lies in leveraging technology to solve complex problems and to be successful developer.
+I'm Fatemeh shahsavan ,a Frontend Developer based in Iran .My passion lies  in leveraging technology to solve complex problems and to be successful developer.
 
 
 ## 🌐 Socials:
